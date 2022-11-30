@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Menu Default'
+description 'ESX Menu Default by Tr7H4rd#0001'
 lua54 'yes'
 version '1.8.5'
 
